@@ -17,3 +17,4 @@ ref:
 7、https://bbs.pcbeta.com/viewthread-1904837-1-1.html
 8、https://github.com/5T33Z0/OC-Little-Translated/tree/main/01_Adding_missing_Devices_and_enabling_Features/CPU_Power_Management/CPU_Power_Management_(Legacy)#re-enabling-acpi-power-management-in-macos-ventura
 9、https://github.com/5T33Z0/OC-Little-Translated/blob/main/14_OCLP_Wintel/Enable_Features/WiFi_Sonoma.md
+10、https://www.jianshu.com/p/30f986617278
